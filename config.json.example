@@ -1,0 +1,17 @@
+{
+  "wechat_token": "",
+  "host": "127.0.0.1",
+  "port": 3000,
+  "unofficial_proxy_api": {
+    "reverse_proxy_api": "https://bypass.churchless.tech/api/conversation",
+    "model": "text-davinci-002-render-sha",
+    "access_token": ""
+  },
+  "database": {
+    "host": "localhost",
+    "port": 3306,
+    "username": "root",
+    "password": "root",
+    "database": "wechat_api"
+  }
+}
